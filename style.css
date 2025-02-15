@@ -80,6 +80,7 @@ button {
 button:hover {
     transition: all .5s ease-in-out;
     background-color: rgb(223, 0, 0);
+    filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
 }
 
 button i {
